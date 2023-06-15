@@ -17,3 +17,14 @@ git clone repo-url
 # How To Contribute
 
 Raise an issue here.
+
+
+<script src="//unpkg.com/alpinejs" defer></script>
+ 
+<div x-data="{ open: false }">
+    <button @click="open = true">Expand</button>
+ 
+    <span x-show="open">
+        Content...
+    </span>
+</div>
