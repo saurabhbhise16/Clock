@@ -1,3 +1,6 @@
+extra_javascript:
+    myscript.js
+    
 # This Repository is following basic JavaScript
 
 **Project 1** : Clock Display 
@@ -18,6 +21,5 @@ git clone repo-url
 
 Raise an issue here.
 
-extra_javascript:
-    myscript.js
+
 
