@@ -1,5 +1,12 @@
-extra_javascript:
-    myscript.js
+This is a regular paragraph.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+This is another regular paragraph.
     
 # This Repository is following basic JavaScript
 
